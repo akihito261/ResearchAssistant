@@ -67,19 +67,6 @@ Khi chạy trực tiếp từ source, ứng dụng sử dụng các thư mục `
 `logs/`, `backups/` và `config/`. Các thư mục này đã được `.gitignore` loại trừ
 để database, PDF, log, bản sao lưu và cấu hình cá nhân không bị đưa lên GitHub.
 
-Không commit API key hoặc credential. Ứng dụng sử dụng keyring của hệ điều hành
-cho thông tin xác thực.
-
-## Kiểm tra trước khi đóng góp
-
-```bash
-python -m compileall -q main.py app
-python -m unittest discover -s tests
-```
-
-Giữ thay đổi nhỏ, không commit dữ liệu cá nhân, môi trường ảo hoặc artifact đã
-build. PDF.js và các tài nguyên runtime trong `resources/` là thành phần cần
-thiết để chạy ứng dụng và phải được giữ lại.
 =======
 # ResearchAssistant
->>>>>>> 59d2694b649569675a1ddaf88cff0860a854cd52
+
