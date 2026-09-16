@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ResearchAssistant
 
 ResearchAssistant là ứng dụng desktop đọc và quản lý bài báo nghiên cứu. Ứng
@@ -67,6 +66,4 @@ Khi chạy trực tiếp từ source, ứng dụng sử dụng các thư mục `
 `logs/`, `backups/` và `config/`. Các thư mục này đã được `.gitignore` loại trừ
 để database, PDF, log, bản sao lưu và cấu hình cá nhân không bị đưa lên GitHub.
 
-=======
-# ResearchAssistant
 
