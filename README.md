@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ResearchAssistant
 
 ResearchAssistant là ứng dụng desktop đọc và quản lý bài báo nghiên cứu. Ứng
@@ -79,3 +80,6 @@ python -m unittest discover -s tests
 Giữ thay đổi nhỏ, không commit dữ liệu cá nhân, môi trường ảo hoặc artifact đã
 build. PDF.js và các tài nguyên runtime trong `resources/` là thành phần cần
 thiết để chạy ứng dụng và phải được giữ lại.
+=======
+# ResearchAssistant
+>>>>>>> 59d2694b649569675a1ddaf88cff0860a854cd52
